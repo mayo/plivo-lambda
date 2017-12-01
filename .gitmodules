@@ -1,0 +1,3 @@
+[submodule "plivo-python"]
+	path = lib/plivo-python
+	url = git://github.com/plivo/plivo-python.git
